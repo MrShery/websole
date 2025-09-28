@@ -1,5 +1,5 @@
-import Header from "./header";
-import Hero from "./hero";
+import Header from "./Header";
+import Hero from "./Hero";
 import Marquee from "./Marquee";
 import About from "./About";
 import Services from "./Services";
@@ -9,7 +9,7 @@ import Pricing from "./Pricing";
 import ClientsSection from "./ClientsSection";
 import BlogSection from "./BlogSection";
 import SectionClient from "./SectionClient";
-import Footer from "./footer";
+import Footer from "./Footer";
 function Index() {
 
     return (
