@@ -7,11 +7,12 @@ import Shaps2 from "../assets/img/shaps-1.png"
 import Shaps3 from "../assets/img/shaps-2.png"
 import Google from "../assets/img/google-w.png"
 import Logo from "../assets/img/logo.png"
+import FooterBg from "../assets/img/footer.jpg"
 
 function Footer() {
 
     return (
-        <footer className="gap no-bottom" style={{ backgroundImage: "url('src/assets/img/footer.jpg')" }} >
+        <footer className="gap no-bottom" style={{ backgroundImage: `url(${FooterBg})` }} >
             <div className="container">
                 <div className="footer-try">
                     <div>
