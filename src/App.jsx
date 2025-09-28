@@ -1,5 +1,5 @@
 
-import Index from './prpos'
+import Index from './prpos/Index'
 import Index_2 from './prpos/Index_2'
 import Index_3 from './prpos/Index_3'
 import Index_4 from './prpos/Index_4'
